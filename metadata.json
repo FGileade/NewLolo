@@ -1,0 +1,8 @@
+{
+  "name": "NEW LOLO - Retro NES Puzzle Adventure",
+  "description": "Jogo clássico de quebra-cabeça 8-bit inspirado em Adventures of Lolo do NES, com salas de quebra-cabeça, magia de ovos, inimigos clássicos e trilha sonora retrô.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
